@@ -23,17 +23,8 @@ module game {
 			Laya.stage.alignV = Stage.ALIGN_MIDDLE;
 			Laya.stage.alignH = Stage.ALIGN_CENTER;
 
-			// var txt = new Laya.Text(); 
-			// txt.text = "Hello Layabox";  
-			// txt.color = "#FF0000";
-			// txt.fontSize = 66;  
-			// txt.stroke = 5;//描边为5像素
-			// txt.strokeColor = "#FFFFFF";  
-			// txt.bold = true;  
-			// //设置文本的显示起点位置X,Y
-			// txt.pos(60,100);  
-			Laya.stage.bgColor  = '#000';  
-			// Laya.stage.addChild(txt);
+			 
+			Laya.stage.bgColor  = '#000';			
 
 			// Laya.DebugTool.init();
 			// 添加调试面板
